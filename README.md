@@ -1,6 +1,6 @@
 # Hi, I’m Kanyisola Fagbayi 👋🏽
 AI Engineer in Training | MSc Data Science (in view)  
-📍 Nigeria — learning, building, and contributing to intelligent, data-driven and LLM-powered solutions
+📍 Nigeria | learning, building, and contributing to intelligent, data-driven and LLM-powered solutions
 
 Welcome to my GitHub!. I’m an Aspiring **Data Scientist and AI Engineer** with a strong engineering background, building machine learning and AI systems with real-world impact across public sector, health, and finance.
 
